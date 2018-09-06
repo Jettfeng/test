@@ -8,7 +8,7 @@ export default new Vuex.Store({
 
   },
   mutations: {
-
+    mutations: 'sd;fklsdfd'
   },
   actions: {
 
