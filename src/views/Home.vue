@@ -4,6 +4,7 @@
     <div>this is add</div>
     <div>this is merge</div>
     <div>this is add origin</div>
+    <div>this is add pull</div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
